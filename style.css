@@ -1,0 +1,68 @@
+body {
+    background-color: #9ad4e8;
+}
+
+.ciudad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.pais {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+label {
+    color: #072d66;
+    font-weight: bold;
+}
+
+select {
+    display: flex;
+    justify-content: center;
+    color: #072d66;
+    background-color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 8px;
+    border: 0px;
+}
+
+option {
+    display: flex;
+    justify-content: center;
+    color: #072d66;
+}
+
+.h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.p2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.resultado {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
